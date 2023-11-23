@@ -1,4 +1,4 @@
-# 42 Cursus
+# 42 Cursus 🔥
 
 Welcome to the **42 Cursus** repository! This repository serves as a comprehensive collection of projects completed as part of the 1337 School curriculum. Each project is designed to challenge and develop specific skills, ranging from programming and algorithms to system administration and more.
 
