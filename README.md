@@ -23,8 +23,7 @@ The 42 Cursus at **1337 School** is a unique educational experience that focuses
 | [**So Long**](https://github.com/aelmaar/so_long) | Building a 2D game using the Minilibx library. |
 | [**Philosophers**](https://github.com/aelmaar/Philosopher) | Learning about threads and processes by simulating philosophers. |
 | [**C++ Modules**](https://github.com/aelmaar/CPP-MODULES) | A series of C++ modules covering various topics. |
-
-**Other individual projects will come soon...**
+| [**Inception**](https://github.com/aelmaar/Inception) | Docker-based project deploying WordPress, MariaDB, and NGINX via Docker Compose. |
 
 ## Grouped Projects
 
@@ -32,5 +31,5 @@ The 42 Cursus at **1337 School** is a unique educational experience that focuses
 | :------------: | ----------- |
 | [**Minishell**](https://github.com/aelmaar/Minishell) | A simplified shell implementation. |
 | [**Cub3D**](https://github.com/yabad-codes/cub3d) | A raycasting-based 3D game engine. |
-
-**The links for these repos will be provided soon, other grouped projects will come soon...**
+| [**Webserv**](https://github.com/42-Teams/Webserv) | Building a custom HTTP server. |
+| [**Ft_Transcendence**](https://github.com/aelmaar/ft_transcendence) | A modernized Pong with multiplayer, real-time gameplay, chat, tournaments, and user management. |
